@@ -19,4 +19,4 @@
 
 更重要的是，我们摒弃了繁琐的注册与登录过程。你无需任何形式的注册，就可以立即开始观看。只需简单点击影片，便能享受无广告干扰的流畅体验。无论你是想快速观看最新影片，还是回顾经典作品，这里都有你需要的一切，所有内容完全免费，观看体验轻松且方便。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/ppw20250704/ppw2 ）</span>
